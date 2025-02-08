@@ -1,3 +1,3 @@
 # Sample-project
 Just for testing and revising git
-Just testing commit
+Just testing commit for new branch
